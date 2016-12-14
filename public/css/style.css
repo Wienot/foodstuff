@@ -1,0 +1,48 @@
+body {
+	background-color: #647C55;
+	color: #E8DAB7;
+}
+
+span {
+	font-style: bold;
+	color: white;
+}
+
+img {
+	width: 20%;
+}
+
+table {
+	display:table;
+	/*margin:0 auto;*/
+}
+
+.centered{
+	/*display:inline-block;*/
+	margin:1em 5%;
+}
+
+.header {
+	color: #EEDD5F;
+}
+
+.label {
+	color: #702F0F;
+	font-size: 20;
+}
+
+.row1 {
+	font-style:oblique;
+}
+
+#link:visited{
+	color:purple;
+}
+
+#link{
+	color:red;
+}
+
+#link:hover{
+	color:#EEDD5F;
+}
